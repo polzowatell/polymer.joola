@@ -24,3 +24,9 @@
         }
     }
 }
+  },
+    "base": {
+        "sim-client" : {
+            "canonConnFrom": "connection-4",
+            "canonConnTo": "connection-5",
+            "universalChannel": "channel-11"
